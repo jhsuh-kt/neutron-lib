@@ -21,6 +21,7 @@ LOGGING_PLUGIN = 'logging-plugin'
 
 # supported logging types
 SECURITY_GROUP = 'security_group'
+FIREWALL_GROUP = 'firewall_group'
 SNAT = 'snat'
 
 # target resource types
